@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://c2ot30fltdyrm"]
+
+[ext_resource type="Shader" path="res://parallax_background.gdshader" id="1_0d6xl"]
+[ext_resource type="Texture2D" uid="uid://c3i5fy4301fed" path="res://kenney_background-elements(2) (1)/Samples/MapaNieve.jpg.webp" id="1_egao8"]
+[ext_resource type="Texture2D" uid="uid://ho1osmd45unr" path="res://assetsbuenos/neu.png" id="3_g10v7"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_5o7vt"]
+shader = ExtResource("1_0d6xl")
+
+[node name="ParallaxBackground" type="ParallaxBackground"]
+scroll_offset = Vector2(300, 300)
+
+[node name="MapaNieve_jpg" type="Sprite2D" parent="."]
+position = Vector2(173, 284)
+texture = ExtResource("1_egao8")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+scale = Vector2(0.378228, 0.650688)
+motion_mirroring = Vector2(3000, 3000)
+
+[node name="TextureRect" type="TextureRect" parent="ParallaxLayer"]
+texture_repeat = 2
+material = SubResource("ShaderMaterial_5o7vt")
+offset_top = -67.0
+offset_right = 3840.0
+offset_bottom = 2093.0
+scale = Vector2(0.420695, 0.420695)
+texture = ExtResource("3_g10v7")
+metadata/_edit_use_anchors_ = true
