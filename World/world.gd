@@ -5,12 +5,9 @@ extends Node
 var player = null
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	
 	player = get_tree().get_first_node_in_group("player")
 	player.killed.connect(_on_player_killed)
-	
-	
-	
-
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
 	pass
@@ -24,4 +21,5 @@ func _on_area_2d_body_entered(body):
 
 func _on_player_killed():
 	gos.visible = true
+
 

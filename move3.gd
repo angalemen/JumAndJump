@@ -8,7 +8,7 @@ const JUMP_VELOCITY = -400.0
 var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 func _ready():
-	$AnimationPlayer.play("move3")
+	$AnimationPlayer.play("moverplat1")
 	pass
 
 func _physics_process(delta):

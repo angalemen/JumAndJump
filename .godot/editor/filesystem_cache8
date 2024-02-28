@@ -1,32 +1,39 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1709056627
+::res://::1709148691
+CharacterBody2D.gd::GDScript::-1::1709135700::0::1::::<>CharacterBody2D<>::
 CollisionShape2D.gd::GDScript::-1::1709047921::0::1::::<>RefCounted<>::
-Control.gd::GDScript::-1::1709047921::0::1::::<>Control<>::
-game_over_screen.gd::GDScript::-1::1709047921::0::1::::<>Control<>::
-game_over_screen.tscn::PackedScene::7827280330332729303::1709056626::0::1::::<><>::uid://iej857dp45dk::::res://assetsbuenos/sirueta.png<>res://game_over_screen.gd<>uid://b4qwt1kyc6c5k::::res://assetsbuenos/Biocats.otf<>uid://bflpifeu7w8lk::::res://kenney_background-elements(2) (1)/game_over.ttf
-Global.gd::GDScript::-1::1709047921::0::1::::<>Node<>::
-global.tscn::PackedScene::8598667472098839297::1709056627::0::1::::<><>::res://Global.gd
-icon.svg::CompressedTexture2D::7497116171036574731::1709047921::1709047921::1::::<><>::
-main.tscn::PackedScene::1678053792728564211::1709056626::0::1::::<><>::uid://dnw3e0t02pnm1::::res://menu.tscn
-menu.tscn::PackedScene::8118841891543729006::1709051503::0::1::::<><>::res://Control.gd<>uid://diepuyuuusj3q::::res://parallax_background.tscn<>uid://q7o4gcmmdbba::::res://assetsbuenos/coollogo_com-11151327.png<>uid://bflpifeu7w8lk::::res://kenney_background-elements(2) (1)/game_over.ttf
-nivl_2.gd::GDScript::-1::1709055842::0::1::::<>Node<>::
-nivl_2.tscn::PackedScene::2699132344703134283::1709056627::0::1::::<><>::res://nivl_2.gd<>uid://c3i5fy4301fed::::res://kenney_background-elements(2) (1)/Samples/MapaNieve.jpg.webp<>uid://wya5jviu717u::::res://assetsbuenos/mapahielo/Plataformahielo.png<>uid://djrufs7wkhcup::::res://game_over_screen.tscn<>uid://dv0g2lxklkvy4::::res://parallax_background2.tscn<>uid://r4nm5hp5mjrd::::res://Player/player.tscn<>res://World/Trampa.gd<>uid://iq0nxeo0r2gv::::res://assetsbuenos/mapahielo/pinchosmap2.png<>uid://d3pbvu8ccvsb7::::res://assetsbuenos/mapahielo/1.png<>uid://bf1f4634abhrj::::res://assetsbuenos/mapahielo/2.png<>uid://bejyadbki1ytt::::res://assetsbuenos/mapahielo/3.png<>uid://b7r6olof0s5d4::::res://kenney_background-elements(2) (1)/stick_wood_outline.png<>uid://8gvulhp5r6p5::::res://kenney_background-elements(2) (1)/espada.png<>res://CharacterBody2D.gd
-parallax_background2.gd::GDScript::-1::1709051797::0::1::::<>ParallaxBackground<>::
-parallax_background2.tscn::PackedScene::8685250343478333857::1709056627::0::1::::<><>::res://scroll.gdshader<>uid://cbgsiudorfbpq::::res://assetsbuenos/mapahielo/neu.png
-parallax_background.gd::GDScript::-1::1709047921::0::1::::<>ParallaxBackground<>::
-parallax_background.gdshader::Shader::-1::1709056627::0::1::::<><>::
-parallax_background.tscn::PackedScene::7729978074362042044::1709056627::0::1::::<><>::res://parallax_background.gdshader<>uid://dqqs76hgld0s2::::res://kenney_background-elements(2) (1)/Samples/colored_talltrees.png
-parallax_hojas.tscn::PackedScene::8922646265296017888::1709051503::0::1::::<><>::res://parallax_background.gdshader<>uid://rtp0agvhvpr::::res://assetsbuenos/mapahielo/bo.png
-particulas.tscn::PackedScene::6698046380594915222::1709056627::0::1::::<><>::res://parallax_background.gdshader<>uid://c3i5fy4301fed::::res://kenney_background-elements(2) (1)/Samples/MapaNieve.jpg.webp<>uid://ho1osmd45unr::::res://assetsbuenos/neu.png
-portal.gd::GDScript::-1::1709047921::0::1::::<>Area2D<>::
-portal.tscn::PackedScene::5506964839103866060::1709056627::0::1::::<><>::res://portal.gd
-ranaanimationplayer.png::CompressedTexture2D::1008182483688333630::1709047921::1709047921::1::::<><>::
+Control.gd::GDScript::-1::1709144824::0::1::::<>Control<>::
 EspadaMovimiento.gd::GDScript::-1::1709055634::0::1::::<>StaticBody2D<>::
-CharacterBody2D.gd::GDScript::-1::1709055656::0::1::::<>CharacterBody2D<>::
-scroll.gdshader::Shader::-1::1709056627::0::1::::<><>::
-::res://assetsbuenos/::1709047921
+game_over_screen.gd::GDScript::-1::1709148496::0::1::::<>Control<>::
+game_over_screen.tscn::PackedScene::7827280330332729303::1709148453::0::1::::<><>::uid://iej857dp45dk::::res://assetsbuenos/sirueta.png<>res://game_over_screen.gd<>uid://b4qwt1kyc6c5k::::res://assetsbuenos/Biocats.otf<>uid://bflpifeu7w8lk::::res://kenney_background-elements(2) (1)/game_over.ttf
+Global.gd::GDScript::-1::1709047921::0::1::::<>Node<>::
+global.tscn::PackedScene::8598667472098839297::1709148453::0::1::::<><>::res://Global.gd
+icon.svg::CompressedTexture2D::7497116171036574731::1709047921::1709047921::1::::<><>::
+main.tscn::PackedScene::1678053792728564211::1709148452::0::1::::<><>::uid://dnw3e0t02pnm1::::res://menu.tscn
+menu.tscn::PackedScene::8118841891543729006::1709148453::0::1::::<><>::res://Control.gd<>uid://diepuyuuusj3q::::res://parallax_background.tscn<>uid://q7o4gcmmdbba::::res://assetsbuenos/coollogo_com-11151327.png<>uid://bflpifeu7w8lk::::res://kenney_background-elements(2) (1)/game_over.ttf
+move2.gd::GDScript::-1::1709135827::0::1::::<>CharacterBody2D<>::
+move3.gd::GDScript::-1::1709136183::0::1::::<>CharacterBody2D<>::
+nieve.jpg::CompressedTexture2D::1012568787926421052::1709148691::1709148692::1::::<><>::
+nivl_2.gd::GDScript::-1::1709148388::0::1::::<>Node<>::
+nivl_2.tscn::PackedScene::2699132344703134283::1709148453::0::1::::<><>::res://nivl_2.gd<>uid://c3i5fy4301fed::::res://kenney_background-elements(2) (1)/Samples/MapaNieve.jpg.webp<>uid://wya5jviu717u::::res://assetsbuenos/mapahielo/Plataformahielo.png<>uid://djrufs7wkhcup::::res://game_over_screen.tscn<>uid://dv0g2lxklkvy4::::res://parallax_background2.tscn<>uid://r4nm5hp5mjrd::::res://Player/player.tscn<>res://World/Trampa.gd<>uid://iq0nxeo0r2gv::::res://assetsbuenos/mapahielo/pinchosmap2.png<>uid://cpedu4qrdxui0::::res://victory_screen.tscn<>uid://d3pbvu8ccvsb7::::res://assetsbuenos/mapahielo/1.png<>uid://bf1f4634abhrj::::res://assetsbuenos/mapahielo/2.png<>uid://bejyadbki1ytt::::res://assetsbuenos/mapahielo/3.png<>uid://b7r6olof0s5d4::::res://kenney_background-elements(2) (1)/stick_wood_outline.png<>res://move2.gd<>uid://ds77xx2e5oqco::::res://assetsbuenos/mapahielo/bloquemapahielo.webp<>res://move3.gd<>uid://ci23twpucqkcg::::res://assetsbuenos/cloud1.png<>uid://cj026yt2xm2sk::::res://assetsbuenos/CastleDoor1.png
+parallax_background2.gd::GDScript::-1::1709051797::0::1::::<>ParallaxBackground<>::
+parallax_background2.tscn::PackedScene::8685250343478333857::1709140491::0::1::::<><>::res://scroll.gdshader<>uid://cbgsiudorfbpq::::res://assetsbuenos/mapahielo/neu.png
+parallax_background.gd::GDScript::-1::1709047921::0::1::::<>ParallaxBackground<>::
+parallax_background.gdshader::Shader::-1::1709148453::0::1::::<><>::
+parallax_background.tscn::PackedScene::7729978074362042044::1709148453::0::1::::<><>::res://parallax_background.gdshader<>uid://dqqs76hgld0s2::::res://kenney_background-elements(2) (1)/Samples/colored_talltrees.png
+parallax_hojas.tscn::PackedScene::8922646265296017888::1709051503::0::1::::<><>::res://parallax_background.gdshader<>uid://rtp0agvhvpr::::res://assetsbuenos/mapahielo/bo.png
+particulas.tscn::PackedScene::6698046380594915222::1709141039::0::1::::<><>::res://parallax_background.gdshader<>uid://c3i5fy4301fed::::res://kenney_background-elements(2) (1)/Samples/MapaNieve.jpg.webp<>uid://ho1osmd45unr::::res://assetsbuenos/neu.png
+portal.gd::GDScript::-1::1709047921::0::1::::<>Area2D<>::
+portal.tscn::PackedScene::5506964839103866060::1709141039::0::1::::<><>::res://portal.gd
+ranaanimationplayer.png::CompressedTexture2D::1008182483688333630::1709047921::1709047921::1::::<><>::
+confeti.tscn::PackedScene::7888424064990258618::1709148453::0::1::::<><>::res://scroll.gdshader<>uid://dfqx24rtaoy3q::::res://kenney_background-elements(2) (1)/confeti.webp
+scroll.gdshader::Shader::-1::1709148453::0::1::::<><>::
+victory_screen.gd::GDScript::-1::1709138860::0::1::::<>CenterContainer<>::
+victory_screen.tscn::PackedScene::5834150948500687745::1709148453::0::1::::<><>::res://victory_screen.gd<>uid://bflpifeu7w8lk::::res://kenney_background-elements(2) (1)/game_over.ttf<>uid://c85ud8u8g6g2e::::res://kenney_background-elements(2) (1)/wp11704418.jpg<>uid://dnf44educpgsc::::res://kenney_background-elements(2) (1)/trofeorana.png<>uid://dknhgr0778dg1::::res://confeti.tscn
+::res://assetsbuenos/::1709137856
 bandera.png::CompressedTexture2D::605462521112716156::1709047921::1709047921::1::::<><>::
 Biocats.otf::FontFile::4456298279335544358::1709047921::1709047921::1::::<><>::
+CastleDoor1.png::CompressedTexture2D::5457846413565417290::1709137855::1709137856::1::::<><>::
 cloud1.png::CompressedTexture2D::5391825501329520210::1709047921::1709047921::1::::<><>::
 cloud8.png::CompressedTexture2D::5564496664489532657::1709047921::1709047921::1::::<><>::
 cloud9.png::CompressedTexture2D::3023701506978039753::1709047921::1709047921::1::::<><>::
@@ -60,7 +67,7 @@ tree13.png::CompressedTexture2D::8719631587907555831::1709047921::1709047921::1:
 uncolored_castle.png::CompressedTexture2D::6988295881580354348::1709047921::1709047921::1::::<><>::
 uncolored_hills.png::CompressedTexture2D::1389695593502805970::1709047921::1709047921::1::::<><>::
 uncolored_plain.png::CompressedTexture2D::8546123365805223806::1709047921::1709047921::1::::<><>::
-::res://assetsbuenos/mapahielo/::1709057212
+::res://assetsbuenos/mapahielo/::1709057446
 1.png::CompressedTexture2D::9155614659459814226::1709047921::1709047921::1::::<><>::
 2.png::CompressedTexture2D::2791395769271944847::1709047921::1709047921::1::::<><>::
 3.png::CompressedTexture2D::2687212825439113801::1709047921::1709047921::1::::<><>::
@@ -78,13 +85,14 @@ bo.png::CompressedTexture2D::36276144974881579::1709047921::1709047921::1::::<><
 eeee.png::CompressedTexture2D::6606481645323748184::1709047921::1709047921::1::::<><>::
 neu.png::CompressedTexture2D::4856524725530056650::1709047921::1709047921::1::::<><>::
 pinchosmap2.png::CompressedTexture2D::596083148195615653::1709047921::1709047921::1::::<><>::
-plataforma hielo.png::CompressedTexture2D::6348205615027835468::1709057212::1709057213::1::::<><>::
+plataforma hielo.png::CompressedTexture2D::6348205615027835468::1709057446::1709057213::1::::<><>::
 Plataformahielo.png::CompressedTexture2D::1593753705493836988::1709047921::1709047921::1::::<><>::
 snow.png::CompressedTexture2D::1820293621911307550::1709047921::1709047921::1::::<><>::
 snowflake-christmas-decoration-png.webp::CompressedTexture2D::5151195707662712786::1709047921::1709047921::1::::<><>::
 wind.png::CompressedTexture2D::1292100184219259522::1709047921::1709047921::1::::<><>::
-::res://kenney_background-elements(2) (1)/::1709053598
+::res://kenney_background-elements(2) (1)/::1709141343
 2222.jpg::CompressedTexture2D::632556805353602055::1709047921::1709047921::1::::<><>::
+confeti.webp::CompressedTexture2D::7544682570906163640::1709141343::1709141343::1::::<><>::
 espa2.png::CompressedTexture2D::1251948178113462551::1709053597::1709053598::1::::<><>::
 espada.png::CompressedTexture2D::2329929468598429472::1709053559::1709053560::1::::<><>::
 Fondo.png::CompressedTexture2D::370403238982282924::1709047921::1709047921::1::::<><>::
@@ -95,6 +103,8 @@ License.txt::TextFile::-1::1709047921::0::1::::<><>::
 Preview.png::CompressedTexture2D::3042376820302249322::1709047921::1709047921::1::::<><>::
 Sample.png::CompressedTexture2D::3058952269706630287::1709047921::1709047921::1::::<><>::
 stick_wood_outline.png::CompressedTexture2D::4669465929465023675::1709049563::1709049564::1::::<><>::
+trofeorana.png::CompressedTexture2D::8083851703597284566::1709140366::1709140366::1::::<><>::
+wp11704418.jpg::CompressedTexture2D::7152226002975364394::1709140977::1709140977::1::::<><>::
 ::res://kenney_background-elements(2) (1)/PNG/::1709047921
 castle_beige.png::CompressedTexture2D::8378263680361988219::1709047921::1709047921::1::::<><>::
 castle_grey.png::CompressedTexture2D::8949857261980816260::1709047921::1709047921::1::::<><>::
@@ -228,14 +238,14 @@ bgElements_spritesheet.xml::TextFile::-1::1709047921::0::1::::<><>::
 ::res://kenney_background-elements(2) (1)/Vector/::1709047921
 bgElements_elements.svg::CompressedTexture2D::3391719435315069973::1709047921::1709047921::1::::<><>::
 bgElements_samples.svg::CompressedTexture2D::6144787066305394976::1709047921::1709047921::1::::<><>::
-::res://Player/::1709051503
-player.gd::GDScript::-1::1709048056::0::1::::Player<>CharacterBody2D<>::
+::res://Player/::1709139697
+player.gd::GDScript::-1::1709139697::0::1::::Player<>CharacterBody2D<>::
 player.tscn::PackedScene::1253889634383346121::1709051503::0::1::::<><>::res://Player/player.gd<>uid://ommvawc877wc::::res://ranaanimationplayer.png
-::res://World/::1709056626
+::res://World/::1709148578
 Area2D.gd::GDScript::-1::1709047921::0::1::::<>Area2D<>::
 CharacterBody2D.gd::GDScript::-1::1709047921::0::1::::<>CharacterBody2D<>::
 plataformamovimiento.gd::GDScript::-1::1709047921::0::1::::<>CharacterBody2D<>::
 Spikes13.gd::GDScript::-1::1709047921::0::1::::<>StaticBody2D<>::
 Trampa.gd::GDScript::-1::1709047921::0::1::::<>Node2D<>::
-world.gd::GDScript::-1::1709047921::0::1::::<>Node<>::
-world.tscn::PackedScene::2046429756098267233::1709056626::0::1::::<><>::uid://btjf6h3e56cf0::::res://kenney_background-elements(2) (1)/Samples/fondo.png<>res://World/world.gd<>uid://djrufs7wkhcup::::res://game_over_screen.tscn<>uid://byillouqmb1en::::res://kenney_background-elements(2) (1)/images.jpeg<>uid://r4nm5hp5mjrd::::res://Player/player.tscn<>uid://dsgqgivf1n8x3::::res://assetsbuenos/tile_0022.png<>uid://dm3p8mpktj5uq::::res://assetsbuenos/trampa.png<>uid://cpgqj1aiyasb::::res://assetsbuenos/tile_0016.png<>res://World/plataformamovimiento.gd<>uid://dq5qrawsdb5on::::res://assetsbuenos/cloud-platform.png<>uid://ivj45otr8gwa::::res://assetsbuenos/bandera.png<>uid://cykcxcwi5jubs::::res://assetsbuenos/tile_0052.png<>res://World/Area2D.gd<>uid://cf2kha22o31bt::::res://assetsbuenos/tile_0134.png<>res://World/CharacterBody2D.gd<>uid://cysjp3743ghdp::::res://assetsbuenos/niebla2.png<>uid://ckpu52ydi52ei::::res://portal.tscn
+world.gd::GDScript::-1::1709148578::0::1::::<>Node<>::
+world.tscn::PackedScene::2046429756098267233::1709148453::0::1::::<><>::uid://btjf6h3e56cf0::::res://kenney_background-elements(2) (1)/Samples/fondo.png<>res://World/world.gd<>uid://djrufs7wkhcup::::res://game_over_screen.tscn<>uid://byillouqmb1en::::res://kenney_background-elements(2) (1)/images.jpeg<>uid://r4nm5hp5mjrd::::res://Player/player.tscn<>uid://dsgqgivf1n8x3::::res://assetsbuenos/tile_0022.png<>uid://dm3p8mpktj5uq::::res://assetsbuenos/trampa.png<>uid://cpgqj1aiyasb::::res://assetsbuenos/tile_0016.png<>res://World/plataformamovimiento.gd<>uid://dq5qrawsdb5on::::res://assetsbuenos/cloud-platform.png<>uid://ivj45otr8gwa::::res://assetsbuenos/bandera.png<>uid://cykcxcwi5jubs::::res://assetsbuenos/tile_0052.png<>res://World/Area2D.gd<>uid://cf2kha22o31bt::::res://assetsbuenos/tile_0134.png<>res://World/CharacterBody2D.gd<>uid://cysjp3743ghdp::::res://assetsbuenos/niebla2.png<>uid://ckpu52ydi52ei::::res://portal.tscn

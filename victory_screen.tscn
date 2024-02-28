@@ -1,0 +1,46 @@
+[gd_scene load_steps=7 format=3 uid="uid://cpedu4qrdxui0"]
+
+[ext_resource type="Script" path="res://victory_screen.gd" id="1_8kqe0"]
+[ext_resource type="FontFile" uid="uid://bflpifeu7w8lk" path="res://kenney_background-elements(2) (1)/game_over.ttf" id="1_vh13j"]
+[ext_resource type="Texture2D" uid="uid://c85ud8u8g6g2e" path="res://kenney_background-elements(2) (1)/wp11704418.jpg" id="2_ihxys"]
+[ext_resource type="Texture2D" uid="uid://dnf44educpgsc" path="res://kenney_background-elements(2) (1)/trofeorana.png" id="3_7xiq0"]
+[ext_resource type="PackedScene" uid="uid://dknhgr0778dg1" path="res://confeti.tscn" id="3_g4066"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_gbg52"]
+font = ExtResource("1_vh13j")
+font_size = 150
+
+[node name="VictoryScreen" type="CenterContainer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8kqe0")
+
+[node name="Wp11704418" type="Sprite2D" parent="."]
+position = Vector2(97.5, 307)
+texture = ExtResource("2_ihxys")
+
+[node name="NieveTormenta" parent="Wp11704418" instance=ExtResource("3_g4066")]
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "You Win!!"
+label_settings = SubResource("LabelSettings_gbg52")
+horizontal_alignment = 1
+
+[node name="MenuButton" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("1_vh13j")
+theme_override_font_sizes/font_size = 70
+text = "Volver al Menu"
+
+[node name="TextureRect" type="TextureRect" parent="VBoxContainer"]
+layout_mode = 2
+texture = ExtResource("3_7xiq0")
+
+[connection signal="pressed" from="VBoxContainer/MenuButton" to="." method="_on_menu_button_pressed"]
